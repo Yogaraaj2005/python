@@ -1,4 +1,4 @@
-Python Solutions for 20 Unique Problems
+
 1. Character Classification
 def classify_character(char):
     if len(char) != 1:
