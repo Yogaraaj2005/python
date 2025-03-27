@@ -1,4 +1,4 @@
-#As a college student, you want to keep track of your monthly expenses for better financial management. You categorize expenses into food, rent, utilities, and entertainment. You need a module that does the following: 
+# As a college student, you want to keep track of your monthly expenses for better financial management. You categorize expenses into food, rent, utilities, and entertainment. You need a module that does the following: 
 
 import csv
 import matplotlib.pyplot as plt
